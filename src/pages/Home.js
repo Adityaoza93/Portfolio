@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Home = () => {
   return (
-    <div className="home">
+    <div className="home my-4">
       <motion.div
         className="name"
         initial={{
