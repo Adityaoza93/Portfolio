@@ -8,7 +8,7 @@ const Internships = () => {
   const serviceList = [
     {
       id: 1,
-      name: "Intership Trainee,Scientific Platforms And Cosmic Exploration",
+      name: "Internship Trainee,Scientific Platforms And Cosmic Exploration",
       imageUrl: project2,
     },
     {
