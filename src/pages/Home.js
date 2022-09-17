@@ -5,6 +5,7 @@ import profile from "./profile.png";
 const Home = () => {
   return (
     <div className="home my-4">
+      <img src={profile} alt="this is profile image" />
       <motion.div
         className="name"
         initial={{
