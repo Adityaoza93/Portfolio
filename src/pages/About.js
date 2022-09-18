@@ -19,7 +19,7 @@ const About = () => {
         <h2>About</h2>
         <>
           <article>
-            
+            <img src={profile} alt="this is profile image" />
             <p>
             A curious person who loves to know "How it works?"."After discovering my passion for web development,I worked on many web dev project and hired myself out as a freelancer.I'am looking forward to bringing that passion to a part-time role".
             </p>
