@@ -20,7 +20,7 @@ const Home = () => {
       >
         Aditya <font color="yellow">Oza</font>
       </motion.div>
-       <img src={profile} alt="this is profile image" my-4/>
+       
       <motion.div
         class="desc"
         initial={{
