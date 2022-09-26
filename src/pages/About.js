@@ -27,8 +27,8 @@ const About = () => {
             <p>
               I am currently pursuing Computer Engineering 
               at Vidyalankar Institute of Technology,Wadala.I am in my 3rd Year.
-              My domain of intrest is in Web Development,IOT and Cyber Security.
-              Currently I am working on Industry project in IOT domain.I am Technical
+              My domain of interest is in Web Development,IoT and Cyber Security.
+              Currently I am working on Industry project in IoT domain.I am Technical
               Co-Head at Computer Engineering Students Association VIT.I am also working 
               as Campus Ambassador at BigInnovation. 
 
