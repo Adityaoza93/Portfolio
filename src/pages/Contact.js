@@ -51,8 +51,8 @@ const Contact = () => {
             <p>
               I can help designing a website, designing a new product, improving
               an existing part of your product, building a strong design system,
-              building websites in MERN Stack.I can also help you in IOT related project.
-              Open to work in team for hackatron.{" "}
+              building websites in MERN Stack.I can also help you in IoT related project.
+              Open to work in team for hackathon.{" "}
             </p>
             <p>
               Currently pursuing Computer Engineering, Mumbai — available for remote-friendly
