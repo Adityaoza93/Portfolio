@@ -8,7 +8,7 @@ const Projects = () => {
   const projectList = [
     {
       id: 1,
-      name: "Harmful Gases Detection System (IOT)",
+      name: "Harmful Gases Detection System (IoT)",
       imageUrl: project1,
     },
     {
