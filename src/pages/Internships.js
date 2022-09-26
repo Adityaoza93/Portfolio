@@ -18,7 +18,7 @@ const Internships = () => {
     },
     {
       id: 3,
-      name: "IOT Industry Project",
+      name: "IoT Industry Project",
       imageUrl: project2,
     },
   ];
